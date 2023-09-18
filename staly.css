@@ -1,3 +1,21 @@
 h1{
-     color:goldenrod
+     color:goldenrod;
+     text-align: center;
+     font-size: 36px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+p{
+     text-align: justify;
+     font-size: 22px;
+     font-family: 'Times New Roman', Times, serif;
+     margin-left: 12px;
+
+}
+
+b{
+     color: rgb(red, green, blue);
+     font-size: 26px;
+
 }
