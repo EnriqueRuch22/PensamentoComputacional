@@ -1,9 +1,9 @@
 h1{
-     color:goldenrod;
+     color:rgb(83, 4, 4);
      text-align: center;
      font-size: 36px;
      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+     text-transform: uppercase;
 }
 
 p{
@@ -11,11 +11,31 @@ p{
      font-size: 22px;
      font-family: 'Times New Roman', Times, serif;
      margin-left: 12px;
-
+     
 }
 
 b{
      color: rgb(red, green, blue);
      font-size: 26px;
+}
 
+strong{
+     color: rgb(red, green, blue);
+     font-size: 26px;
+     text-transform: capitalize;
+}
+
+u{
+     font-size: 18px;
+     
+}
+
+h2{
+     margin-left: 30px;
+     font-size: 30px;
+}
+
+body{
+     background-color: #c0c0c0;
+     text-align: justify;
 }
